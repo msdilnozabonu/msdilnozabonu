@@ -24,4 +24,4 @@ Committed to continuous learning and passionate about building reliable, scalabl
 
 
 
-![](https://komarev.com/ghpvc/?username=msdilnozabonu&color=purple)
+![](https://komarev.com/ghpvc/?username=msdilnozabonu&color=8A2BE2)
